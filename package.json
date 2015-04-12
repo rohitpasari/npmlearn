@@ -1,0 +1,15 @@
+{
+  "name": "npmlearn",
+  "version": "1.0.0",
+  "description": "test npm modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npmlearn"
+  },
+  "author": "rohit pasari",
+  "license": "ISC"
+}
